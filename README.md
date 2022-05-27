@@ -1,3 +1,7 @@
+This is my first typeScript project. It is also my first time using snowpack. I am following along with Web Dev Simplified's video. This is just for practice and is not my own code. 
+
+Web Dev Simplified's code: https://github.com/WebDevSimplified/typescript-todo-list
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
